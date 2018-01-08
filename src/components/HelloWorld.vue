@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 v-show="!showImg">HELLOW component</h1>
+    <h1 v-show="!showImg">Hello component</h1>
   </div>
 </template>
 
